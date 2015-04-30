@@ -8,6 +8,6 @@ The output is a web archive that can be obtained by running the following comman
     mvn clean package
 
 ### Installing ###
-The easies way to install the application is by copying the packaged war file into a WebSocket Compliant Server such as Jetty or Tomcat.
+The easiest way to install the application is by copying the packaged war file into a WebSocket Compliant Server such as Jetty or Tomcat.
 
 *Enjoy*
